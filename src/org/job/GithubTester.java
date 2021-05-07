@@ -2,11 +2,11 @@ package org.job;
 
 public class GithubTester {
 private void softwaretesting() {
-	// TODO Auto-generated method stub
-
+System.out.println("i am a software tester");
 }
 private void hardwaretesting() {
-	// TODO Auto-generated method stub
+System.out.println("i am a hardware tester");
 
 }
+
 }
